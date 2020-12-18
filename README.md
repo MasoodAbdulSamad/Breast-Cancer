@@ -1,2 +1,2 @@
 # Breast-Cancer
-Project of Breast Cancer Detection with Logistic Regression
+Breast Cancer Detection with Logistic Regression were its Malignant or Benign  
